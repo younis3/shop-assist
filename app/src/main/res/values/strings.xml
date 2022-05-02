@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ShopAssist</string>
+    <string name="exit_app">Exit App</string>
+    <string name="add_product_to_list">Add product to list</string>
+    <string name="serverUrl">https://shopassist-f7375-default-rtdb.europe-west1.firebasedatabase.app/</string>
+    <string name="errAdd">Error: Please type valid input</string>
+    <string name="errAddFireBase">Error: Could not add product to DataBase</string>
+    <string name="listTitle">Products List</string>
+    <string name="emptyList">Products list is empty</string>
+
+</resources>

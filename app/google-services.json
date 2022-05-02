@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "255955579609",
+    "project_id": "shopassist-f7375",
+    "storage_bucket": "shopassist-f7375.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255955579609:android:c939ae09bdf817349c44c8",
+        "android_client_info": {
+          "package_name": "com.example.shopassist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255955579609-nkcrf1b784em6cec1j06rdgm552g81cd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3AXJyoLFi1X2pVJBYq2jCo4x5B-MnL1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255955579609-nkcrf1b784em6cec1j06rdgm552g81cd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
